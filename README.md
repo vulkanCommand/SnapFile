@@ -56,15 +56,16 @@ python upload_monitor.py
 3. Set the action to run `python upload_monitor.py`.
 
 ## Screenshots
+
 ![Screenshot 2025-02-03 134608](https://github.com/user-attachments/assets/8307af9b-a4b7-486b-90a0-26e134482fcd)
-![Screenshot 2025-02-03 135034](https://github.com/user-attachments/assets/6fb25403-8119-49e5-a127-743e67fe475a)
-![Screenshot 2025-02-03 135024](https://github.com/user-attachments/assets/f4da3225-313c-4c5e-803d-bd0e83a2abfc)
-![Screenshot 2025-02-03 135003](https://github.com/user-attachments/assets/3b378545-33d1-4261-8355-8322ee64fc57)
-![Screenshot 2025-02-03 134952](https://github.com/user-attachments/assets/00232f99-736f-4e1f-a678-e1ed7ec1d1d4)
-![Screenshot 2025-02-03 134836](https://github.com/user-attachments/assets/3b0181cb-9b4f-445c-9598-f1b3163204b5)
-![Screenshot 2025-02-03 134754](https://github.com/user-attachments/assets/bac29e7d-4ca6-4a20-b374-1c0c15ab7e72)
-![Screenshot 2025-02-03 134652](https://github.com/user-attachments/assets/eaf4d57a-7823-44c6-a9d2-04dd9790d9a7)
 ![Screenshot 2025-02-03 134630](https://github.com/user-attachments/assets/9211b9d7-f5fc-4889-96da-d96ae5a116ec)
+![Screenshot 2025-02-03 134652](https://github.com/user-attachments/assets/eaf4d57a-7823-44c6-a9d2-04dd9790d9a7)
+![Screenshot 2025-02-03 134754](https://github.com/user-attachments/assets/bac29e7d-4ca6-4a20-b374-1c0c15ab7e72)
+![Screenshot 2025-02-03 134836](https://github.com/user-attachments/assets/3b0181cb-9b4f-445c-9598-f1b3163204b5)
+![Screenshot 2025-02-03 134952](https://github.com/user-attachments/assets/00232f99-736f-4e1f-a678-e1ed7ec1d1d4)
+![Screenshot 2025-02-03 135003](https://github.com/user-attachments/assets/3b378545-33d1-4261-8355-8322ee64fc57)
+![Screenshot 2025-02-03 135024](https://github.com/user-attachments/assets/f4da3225-313c-4c5e-803d-bd0e83a2abfc)
+![Screenshot 2025-02-03 135034](https://github.com/user-attachments/assets/6fb25403-8119-49e5-a127-743e67fe475a)
 ![Screenshot 2025-02-03 135303](https://github.com/user-attachments/assets/28e264bb-7294-44fa-9024-d40ea4a7d80b)
 
 
