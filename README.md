@@ -1,5 +1,8 @@
 # SnapFile - Automated File Sync to AWS S3
 
+![Untitled Diagram drawio](https://github.com/user-attachments/assets/7a2f721a-b543-4fbe-b915-496c698241e0)
+
+
 ## Overview
 SnapFile is an automated file synchronization system that detects changes in a local folder and seamlessly uploads new or modified files to an AWS S3 bucket. It also provides a simple web interface hosted on AWS S3, where users can view and download uploaded files in real time.
 
